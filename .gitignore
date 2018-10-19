@@ -57,6 +57,5 @@ dkms.conf
 **/cmake-build-default   
 **/cmake-build-relwithdebinfo
 **/cmake-build-minsizerel
-**/venv
 *CMakeLists.txt
 
