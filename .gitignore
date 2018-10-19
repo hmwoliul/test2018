@@ -52,10 +52,10 @@ Mkfile.old
 dkms.conf
 
 #folders
-*/cmake-build-debug/       
-*/cmake-build-release/
-*/cmake-build-default/     
-*/cmake-build-relwithdebinfo/  
-*/cmake-build-minsizerel/  
-*/CMakeLists.txt
+* /cmake-build-debug      
+* /cmake-build-release
+* /cmake-build-default   
+* /cmake-build-relwithdebinfo
+* /cmake-build-minsizerel
+* CMakeLists.txt
 
