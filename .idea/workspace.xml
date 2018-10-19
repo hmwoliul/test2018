@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f21e506a-e78a-4bf9-b7ee-c0ecea06e362" name="Default" comment="">
+    <list default="true" id="f21e506a-e78a-4bf9-b7ee-c0ecea06e362" name="Default" comment="Create">
       <change beforePath="$PROJECT_DIR$/.idea/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -179,7 +179,7 @@
       <workItem from="1539949626359" duration="152000" />
       <workItem from="1539949828254" duration="3358000" />
       <workItem from="1539956441465" duration="1150000" />
-      <workItem from="1539960621726" duration="77000" />
+      <workItem from="1539960621726" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="Create">
       <created>1539953365532</created>
@@ -230,14 +230,22 @@
       <option name="project" value="LOCAL" />
       <updated>1539956951663</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Create">
+      <created>1539960793941</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539960793941</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14265000" />
+    <option name="totallyTimeSpent" value="14528000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.20045386" />
       <window_info id="Structure" order="1" weight="0.24924472" />
@@ -250,8 +258,8 @@
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Messages" order="5" weight="0.3277311" />
       <window_info anchor="bottom" id="CMake" order="6" weight="0.34117648" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50755286" side_tool="true" weight="0.3226891" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49244714" visible="true" weight="0.32131147" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50832075" side_tool="true" weight="0.32131147" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49167928" visible="true" weight="0.32131147" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32894737" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32971016" />
       <window_info anchor="bottom" x="25" y="246" width="1316" height="236" id="Debug" order="11" sideWeight="0.4969743" weight="0.3963816" />
